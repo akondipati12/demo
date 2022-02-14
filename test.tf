@@ -1,0 +1,1 @@
+resourece locals{}
